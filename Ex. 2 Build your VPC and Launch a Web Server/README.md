@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: HITHESHHWARAN A R
+* **Register Number**: 212224040118
+* **Date of Submission**: 24.02.2026
 
 ---
 
@@ -83,37 +83,22 @@ Install and start a web server (Apache HTTPD) on the EC2 instance using user dat
 
 Create a simple HTML page and verify that it can be accessed from a web browser using the public IP address of the instance.---
 
-## Workflow (Student Explanation)
 
-(Write the steps you followed in your own words)
-
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
-
----
 
 ## Output Screenshots (Attach 3)
 
 ### Screenshot 1: VPC and Subnet Details
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/2013671e-053a-4663-a979-5caea3f67a85" />
 
-(Insert Screenshot Here)
-
----
 
 ### Screenshot 2: EC2 Instance Running
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/3660bcaa-45a9-42db-94cb-fd516c21276e" />
 
-(Insert Screenshot Here)
-
----
 
 ### Screenshot 3: Web Server Output in Browser
 
-(Insert Screenshot Here)
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/b6a93ca9-c6ab-4907-96c6-75e02b742f2a" />
 
----
 
 ## Result 
 
