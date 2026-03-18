@@ -3,7 +3,9 @@
 ## Title
 
 Scale and Load Balance Your Architecture
-Author : your name   Reg no : yours   Date :
+## Author : HITHESHHWARAN A R
+## Reg no : 212224040118
+## Date : 18.03.2026
 
 ---
 
@@ -63,12 +65,12 @@ Students configure scaling policies based on CPU utilization using Amazon CloudW
 Students test the setup by generating traffic and observing automatic scaling and load distribution.
 
 ---
+<img width="889" height="504" alt="image" src="https://github.com/user-attachments/assets/868e0a92-ba33-4e91-a875-de76222ee74d" />
 
-## Workflow (To be filled by Student)
+<img width="884" height="511" alt="image" src="https://github.com/user-attachments/assets/86835df1-f514-4710-9981-bbb437f1e9dd" />
 
-Describe step-by-step how you performed this experiment in your own words.
+<img width="872" height="500" alt="image" src="https://github.com/user-attachments/assets/8a13de84-c010-4b49-90ec-fc7242c57905" />
 
----
 
 ## Output Screenshots 
 
